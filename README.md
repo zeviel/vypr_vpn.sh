@@ -3,6 +3,6 @@ Mobile-API for [Vypr VPN](https://play.google.com/store/apps/details?id=com.gold
 
 ## Example
 ```bash
-source vypr_vpn.sh
+source ./vypr_vpn.sh
 get_id_token "email" "password"
 ```
